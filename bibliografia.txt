@@ -1,0 +1,1 @@
+- chacon, s. and Strub, B. Pro Git. Apress.
